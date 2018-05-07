@@ -1,1 +1,2 @@
-# GEMT
+# GbyE
+To conduct Genome Wide Association Study (GWAS) with either genetic and environmental interaction, or multiple trait model. Key features of GbyE include: 1) simultaneously considering causes for both correlations among individuals and correlations among environments or traits; 2) computationally tractable, e.g. a dataset with one million individuals, one million markers, and five environments, only take ten hours on a Mac Pro with 12 cores. 
